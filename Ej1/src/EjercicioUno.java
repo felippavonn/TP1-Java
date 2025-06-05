@@ -13,6 +13,5 @@ public class EjercicioUno {
 				System.out.println(i);
 			}
 		}
-
-}
+	}
 }
